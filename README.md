@@ -1,0 +1,5 @@
+- 👋 Hi, I’m BrayHax
+- 👀 I’m interested in learn new things
+- 🌱 I’m currently learning Java
+- 💞️ I'm looking to collaborate on LiquidBounce Custom Builds
+- 📫 You can Reach me at discord.gg, my discord is BrayHax#1337
